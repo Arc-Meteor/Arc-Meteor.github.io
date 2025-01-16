@@ -21,11 +21,11 @@
 title: ArcMeteor's Blog
 email: wojiadeyuzhu@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A small page for my own in this big world.
+  You can talk with me and share your new idea there.
+  It's not only belonging to me,but for yours all.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://arc-meteor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ArcMeteor
 github_username:  Arc-Meteor
 
