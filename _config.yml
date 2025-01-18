@@ -5,6 +5,6 @@ timezone: Aisa/Beijing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://arc-meteor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Arc-Meteor
-theme: just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
