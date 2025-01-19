@@ -1,18 +1,25 @@
 ---
 layout: page
-title: About
+title: About ArcMeteor
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+这是一个普通高三学生在看到他人的博客后
+脑子一热冲动后所创建的。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+正如在大刘对DOS系统的描述一样，
+网页的构建也是如同深渊一般，
+在外面看来似乎很简单的事情，
+一旦亲临去做，便会发现其中的困难与艰辛。
+还有很多的基础与语法都不得其解，
+所以要各位路过大佬的提携与帮助啊。
+小人在此奉上QQ：3048856632 
+请各位好心的大佬能给予一些指教。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+在此也感谢 [Maxy的博客](https://mabbs.github.io "强的可怕")
+也正是看到了他的博客让我诞生了建立的想法
+也感谢 [笔记星球](https://note-star.cn "这位更是恐怖的巨佬")
+在我最失落时偶然发现并给予我帮助。
+不甚感激各位线下支持我的朋友们，
+有你们的支持与鼓励才能让我不断前进。
+我相信我会一直坚持下去的。
