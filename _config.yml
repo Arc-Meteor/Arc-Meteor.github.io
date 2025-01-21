@@ -12,8 +12,8 @@ plugins:
 
 leancloud_visitors:
   enable: true
-  app_id: #你的app_id
-  app_key: #你的的app_key
+  app_id: L1oyBoQQ2WkAhMwvGN3cUg06-MdYXbMMI
+  app_key: P5XXoeUo1pWqJON65PUeyV8F
 
 # Show PV/UV of the website/page with busuanzi. 不蒜子统计
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
