@@ -6,7 +6,7 @@
   <link href="http://arc-meteor.github.io/atom.xml" rel="self"/>
   
   <link href="http://arc-meteor.github.io/"/>
-  <updated>2025-06-30T15:35:33.501Z</updated>
+  <updated>2025-07-03T14:42:41.887Z</updated>
   <id>http://arc-meteor.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>六月月度总结</title>
+    <link href="http://arc-meteor.github.io/2025/07/03/2025-07-03-%E5%85%AD%E6%9C%88%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
+    <id>http://arc-meteor.github.io/2025/07/03/2025-07-03-%E5%85%AD%E6%9C%88%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/</id>
+    <published>2025-07-03T13:39:56.000Z</published>
+    <updated>2025-07-03T14:42:41.887Z</updated>
+    
+    <content type="html"><![CDATA[<p>本来说是要在一号就把总结写出来的，<br>结果现在莫名其妙就推到了三号，<br>也算是拖延症的极致体现，<br>可能也是前两天的事情太多了吧，<br>总而言之现在还是要正常回忆6月做了些什么，<br>然后对其进行总结一下，也算是可以水一篇博文。   </p><p>首先感觉6月就是高中生活的延续，<br>从开始的1号开始，继续在学校的坐牢，<br>度过了一段紧张难忘的日子，<br>最留下深刻印象的是咱们6月8号那天晚上的晚自习，<br>算是高中的最后一个晚自习吧，<br>依然是没有好好复习，而是请求了倍受欢迎的化学老师，<br>让他在我的游戏机盒子上留下他的寄语，<br>虽然有点奇怪，但他还是接受了我的要求，<br>也算是完成了咱的夙愿。<br>说实话感觉真正高中三年下来能让我敬服的老师只有这一位了。     </p><p><img src="https://img.picui.cn/free/2025/07/03/68668c486c42b.jpg" alt="咱的游戏机"></p><p>好了好了，这都是高中的事情了，<br>要说刚高考完也就干了一件事吧，<br>建了个Minecraft服务器，<br>虽然我一分钱也没出，<br>相当于完全白嫖顺便混了个自由处理服务器的机会，<br>平时维持好了基础forge的运行，<br>多余的就当是交给自动化脚本的玩物了，<br>只是可惜国内禁止TCP建站，<br>要不玩法应该还能更多，<br>至于真正能玩的内容其实也不多，<br>加上100+mods的forge内存占用高达4-6G，<br>再加上本身Windows Serve也有占用，<br>很多进程根本跑不起来，<br>而且这个租服务器的平台还算电费，<br>平常送的电根本不够CPU跑满1小时，<br>只能说是当个随性玩具了，<br>真正要学习什么的还是要靠Wamp来架构本地，<br>说起来6月真正认真学习的时间也没多少，<br>在技术的学习实践上还是差把劲，<br>下个月还是要继续努力。    </p><p>感觉在家长期待久了，<br>身体素质都在不断下降，<br>右肩的疼痛也时有显现，<br>每天晚上就算是外出达到了10000步也还是不够，<br>还是需要偶尔的高强度运动来完全激发身体，<br>像是在学校至少每周都会打2-3次球，完全运动了身体，<br>现在虽说也有白天太热了的原因，<br>但确实动的越来越少了，<br>还是要继续保持健康的作息习惯。    </p><p>七月也已经开始了，<br>事情还是很多的，<br>还是要继续加油了。<br>各位读者，晚安！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本来说是要在一号就把总结写出来的，&lt;br&gt;结果现在莫名其妙就推到了三号，&lt;br&gt;也算是拖延症的极致体现，&lt;br&gt;可能也是前两天的事情太多了吧，&lt;br&gt;总而言之现在还是要正常回忆6月做了些什么，&lt;br&gt;然后对其进行总结一下，也算是可以水一篇博文。   &lt;/p&gt;
+&lt;p&gt;首先感觉</summary>
+      
+    
+    
+    
+    <category term="Monthly Summary" scheme="http://arc-meteor.github.io/categories/Monthly-Summary/"/>
+    
+    
+    <category term="总结" scheme="http://arc-meteor.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="生活" scheme="http://arc-meteor.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>也算是决定去哪里了</title>
     <link href="http://arc-meteor.github.io/2025/06/30/2025-06-30-%E4%B9%9F%E7%AE%97%E6%98%AF%E5%86%B3%E5%AE%9A%E5%8E%BB%E5%93%AA%E9%87%8C%E4%BA%86/"/>
     <id>http://arc-meteor.github.io/2025/06/30/2025-06-30-%E4%B9%9F%E7%AE%97%E6%98%AF%E5%86%B3%E5%AE%9A%E5%8E%BB%E5%93%AA%E9%87%8C%E4%BA%86/</id>
     <published>2025-06-30T14:03:19.000Z</published>
-    <updated>2025-06-30T15:35:33.501Z</updated>
+    <updated>2025-06-30T15:35:48.884Z</updated>
     
     <content type="html"><![CDATA[<p>自从成绩出了以后，<br>感觉就没留下什么时间学习了，<br>刚看完两个学校的玩意，<br>就感觉很有点累了，而且许多问题矛盾也不在于此，<br>首先是自己理想与现实的争端，<br>然后是外部环境与信息的干扰与制造的焦虑，<br>就算是有明确的目标计划，<br>也很难不被那些焦虑所烦扰，<br>更别提当前还不是很明了的局势，<br>外部因素和内部条件共同造就了这样的尴尬局势。<br>你要说咱自己的想法其实也不是很明了，<br>只知道现在还可以对与网站相关的HTML，JS，PHP之类还有兴趣，<br>但真正去学习计科是却又不知道怎么样，<br>虽然高中时也玩过一段时间的开发板，<br>但那个时候终究是娱乐太过贫乏，<br>连LED流水灯也能玩一个星期，<br>现在反而退步了，好像有一下午也不会去看了，<br>这也算是高中上完的弊端，<br>没有那么强烈的动力去持续不断的学习了，<br>也只能希望这样的状态能有所改观，<br>毕竟就算是无所事事其实也是对精神的一种消耗。    </p><p>要说现在真正去哪里，<br>其实也并不确定，但是其实答案已经逐渐明了，<br>前面机会寥寥无几，<br>能进这些学校招生人数不多的专业机会也少，<br>真正大有可能也只有那么几个，<br>不是超远就是超近，<br>超远可以到海南，超近可以到百公里内，<br>真的很难说，也不好确定我的想法，<br>也许现在说说的事情以后便成了真，<br>现在才真正感觉到在岔路口的感觉了，<br>一段想法便可以决定后面4年的人生，<br>其实咱自己向来也是无所谓，<br>自己一直学习一直前进，<br>再怎么样也会有份工作，<br>能干些事业和成就出来吧，<br>当然这也仅仅是理想情况，<br>至于现实会变成怎么样，谁也无法预料，<br>所以说那就随心而行吧，如果想去，<br>就不要被犹豫捆住了脚步，<br>也不要再后来为自己此刻的断绝做出后悔，<br>反正路是这样的，一直走就好了。    </p><p>现在这几天学习进度也落下了，<br>感觉明天正式填完，<br>后天检验以后也要开始回复学习了，<br>如果万一真正去了海南，那么确实学习要比较辛苦了，<br>咱也想在暑假这段时间提高一下自己的基础能力，<br>能稍微应对一下未来的艰苦生活，<br>咱对于物质生活条件其实没有什么想法，<br>毕竟咱高中是住的出租屋条件可以说是差的离谱，<br>但咱依然觉得还好，<br>后续问题也就是日常开销生活成本，<br>和来往回家通勤的问题了，<br>距离远也是咱主要犹豫的原因，<br>而且海南也并不是发达城市，<br>也不符合咱最开始的想法，<br>当然如果事已至此也没有多想了，<br>明天仔细在斟酌一下顺序就结束了，<br>咱也不想再为这些事情平添无故的矛盾和争吵，<br>其实也都没有必要，仔细沟通应该也不会有问题。    </p><p>好了这件事情也算就告一段落了，<br>毕竟离真正去上学还有两个月之久，<br>我要考虑真正把这段时间好好玩到学到，<br>努力不漏遗憾在这个算是最长最完美的暑假，<br><del>毕竟以后想有也没有这样的机会了</del><br>这几天咱们这里天气阴雨烈日交替频繁，<br>虽然也直接导致我全身被雨淋到湿透，<br>但也产生了许多好看的云朵和湛蓝的天空，<br>也算是祸福相依了，   </p><p><img src="https://img.picui.cn/free/2025/06/30/6862adc3bd483.jpg" alt="天空" title="天空"><br><img src="https://img.picui.cn/free/2025/06/30/6862adc32dfb4.jpg" alt="天空" title="天空"><br><img src="https://img.picui.cn/free/2025/06/30/6862ada3865fd.jpg" alt="天空"></p><p>今天到这里就结束了，明天还会有月度总结，<br>各位读者，晚安！</p>]]></content>
     
@@ -194,9 +221,9 @@
     
     <category term="开发" scheme="http://arc-meteor.github.io/tags/%E5%BC%80%E5%8F%91/"/>
     
-    <category term="总结" scheme="http://arc-meteor.github.io/tags/%E6%80%BB%E7%BB%93/"/>
-    
     <category term="技术" scheme="http://arc-meteor.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="总结" scheme="http://arc-meteor.github.io/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
@@ -230,7 +257,7 @@
     <link href="http://arc-meteor.github.io/2025/03/11/2025-03-11-monthconclude/"/>
     <id>http://arc-meteor.github.io/2025/03/11/2025-03-11-monthconclude/</id>
     <published>2025-03-11T15:15:00.000Z</published>
-    <updated>2025-06-24T23:14:55.156Z</updated>
+    <updated>2025-07-03T13:45:25.528Z</updated>
     
     <content type="html"><![CDATA[<p>月度的学习总结，就算什么也没学，也要给自己一些理由。</p><blockquote><p>声明：这都是高中时写的东西，精神状况不正常属于常态<br>请大家多多体谅！<del>主要是不想在仔细看并去修改了<del></p></blockquote><p>总的来说这个月干了很多事情，<br>但很多又好像是碌碌无为，<br>总觉得时间过得飞快，<br>在不知不觉中百日誓师已经过去，<br>但自己却意识不到任何紧张，<br>每天划水摸鱼看Javascript的书，<br>有空的话上线写写新功能然后迫不及待地发布，<br>并没有什么太大的变化，<br>似乎要高考的不是我，<br>真正的我活在自己构建的幻想乡中，<br>但又常常被各种烦恼惊醒，<br>却也提不起干劲去拼博一把，<br>大概是有些看得太透了，<br>或是根本就没有认清，<br>反正这是咱现在真实的想法。</p><h4 id="学习Git和JavaScript"><a href="#学习Git和JavaScript" class="headerlink" title="学习Git和JavaScript"></a>学习Git和JavaScript</h4><p>本月随便学了些JavaScript，<br>反正都很简单，只是用来稍微增加些网页的交互性的，<br>但似乎好像每学点东西就迫不及待想实践在网页上，<br>效果却总是不太好，<br>最终还得靠Copilot来改，<br>变量啥子的弄错基本是家常便饭了，<br>现在长点记性了，<br>在敲上屏幕之前会在纸上打点草稿，<br>因为不知道为什么咱在打字时似乎没有思考能力，<br>对着屏幕就不知道要考虑些什么了，<br>看来还是熟练度的问题。<br>变量什么的提前做个笔记，<br>不确定回去翻看一下，<br>之前写的代码也努力再加上些注释，<br>虽然自己暂时还是看得懂的，<br>万一哪天玩忘了还是有用的。<br>好习惯还是尽量在开始的时候就养成，<br>这样才好吧。</p><p>Git的话现在在用GitHub感触倒不深，<br>看来咱还处于使用GUI的新手阶段，<br>但了解它的原理还是重要的，<br>方便咱以后处理在GitHub出现的各种问题，<br>总算也是有一点参考。<br><del><br>(毕竟之前因为什么都不懂重构过网站，留下了深刻的教训)<br></del></p><h4 id="业余无线电操作"><a href="#业余无线电操作" class="headerlink" title="业余无线电操作"></a>业余无线电操作</h4><p>除了编程其实咱还玩了不少东西，<br>虽然都没有什么成果就是了。<br>花时间学习业余无线电操作其实对咱而言还算不错，<br>这是一项挺有意思的事情，<br>不管是监听附件124.675上的航空塔台，<br>还是在听160.650上的长江之声，<br>都挺有意思的。<br>中途在某天早上在439.675中继站频段上听到两位Ham交流，<br>也让咱欣喜万分，<br>可惜咱湖北最近无线电操作考试都挺少的，<br>而且离咱也远，<br>更别说咱现在高三也没时间去考别的试，<br>只能等到毕业后了。<br>也算是遗憾没有执照不能询问呼号，<br>咱还想认识认识那两位同住这城市的业余无线电爱好者，<br>只能等到以后了。</p><h4 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h4><p>这个月虽然忙碌，<br>但反正下面几个月只会更忙，<br>也没什么好抱怨的了，<br>自由支配时间也短，<br>现在只能压缩之前用来看番的时间了，<br><del>（反正学校也没准备你好过）</del><br>总的来说还是收获颇丰，<br>至少现在回想起来就算回到之前，<br>咱也不能做得更好了，<br>那现在反而也是最好的安排，<br>至少咱是这么勉励<del>或者说欺骗</del>自己的，<br>希望在接下来的时间里，<br>能够继续保持学习的热情，<br>不断提升自己的技能。<br>至少不希望自己在浪潮中迷失了自我，<br>要坚持自己要做的，<br>承担自己要承担的，<br>就够了吧。<br>祝未来的自己更好，<br>晚安，好梦！</p>]]></content>
     
@@ -239,7 +266,7 @@
     
     
     
-    <category term="Daily Life" scheme="http://arc-meteor.github.io/categories/Daily-Life/"/>
+    <category term="Monthly Summary" scheme="http://arc-meteor.github.io/categories/Monthly-Summary/"/>
     
     
     <category term="总结" scheme="http://arc-meteor.github.io/tags/%E6%80%BB%E7%BB%93/"/>
