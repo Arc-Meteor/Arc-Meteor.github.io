@@ -6,7 +6,7 @@
   <link href="http://arc-meteor.github.io/atom.xml" rel="self"/>
   
   <link href="http://arc-meteor.github.io/"/>
-  <updated>2025-07-03T14:42:41.887Z</updated>
+  <updated>2025-07-03T14:42:57.856Z</updated>
   <id>http://arc-meteor.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://arc-meteor.github.io/2025/07/03/2025-07-03-%E5%85%AD%E6%9C%88%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
     <id>http://arc-meteor.github.io/2025/07/03/2025-07-03-%E5%85%AD%E6%9C%88%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/</id>
     <published>2025-07-03T13:39:56.000Z</published>
-    <updated>2025-07-03T14:42:41.887Z</updated>
+    <updated>2025-07-03T14:42:57.856Z</updated>
     
     <content type="html"><![CDATA[<p>本来说是要在一号就把总结写出来的，<br>结果现在莫名其妙就推到了三号，<br>也算是拖延症的极致体现，<br>可能也是前两天的事情太多了吧，<br>总而言之现在还是要正常回忆6月做了些什么，<br>然后对其进行总结一下，也算是可以水一篇博文。   </p><p>首先感觉6月就是高中生活的延续，<br>从开始的1号开始，继续在学校的坐牢，<br>度过了一段紧张难忘的日子，<br>最留下深刻印象的是咱们6月8号那天晚上的晚自习，<br>算是高中的最后一个晚自习吧，<br>依然是没有好好复习，而是请求了倍受欢迎的化学老师，<br>让他在我的游戏机盒子上留下他的寄语，<br>虽然有点奇怪，但他还是接受了我的要求，<br>也算是完成了咱的夙愿。<br>说实话感觉真正高中三年下来能让我敬服的老师只有这一位了。     </p><p><img src="https://img.picui.cn/free/2025/07/03/68668c486c42b.jpg" alt="咱的游戏机"></p><p>好了好了，这都是高中的事情了，<br>要说刚高考完也就干了一件事吧，<br>建了个Minecraft服务器，<br>虽然我一分钱也没出，<br>相当于完全白嫖顺便混了个自由处理服务器的机会，<br>平时维持好了基础forge的运行，<br>多余的就当是交给自动化脚本的玩物了，<br>只是可惜国内禁止TCP建站，<br>要不玩法应该还能更多，<br>至于真正能玩的内容其实也不多，<br>加上100+mods的forge内存占用高达4-6G，<br>再加上本身Windows Serve也有占用，<br>很多进程根本跑不起来，<br>而且这个租服务器的平台还算电费，<br>平常送的电根本不够CPU跑满1小时，<br>只能说是当个随性玩具了，<br>真正要学习什么的还是要靠Wamp来架构本地，<br>说起来6月真正认真学习的时间也没多少，<br>在技术的学习实践上还是差把劲，<br>下个月还是要继续努力。    </p><p>感觉在家长期待久了，<br>身体素质都在不断下降，<br>右肩的疼痛也时有显现，<br>每天晚上就算是外出达到了10000步也还是不够，<br>还是需要偶尔的高强度运动来完全激发身体，<br>像是在学校至少每周都会打2-3次球，完全运动了身体，<br>现在虽说也有白天太热了的原因，<br>但确实动的越来越少了，<br>还是要继续保持健康的作息习惯。    </p><p>七月也已经开始了，<br>事情还是很多的，<br>还是要继续加油了。<br>各位读者，晚安！</p>]]></content>
     
@@ -221,9 +221,9 @@
     
     <category term="开发" scheme="http://arc-meteor.github.io/tags/%E5%BC%80%E5%8F%91/"/>
     
-    <category term="技术" scheme="http://arc-meteor.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
-    
     <category term="总结" scheme="http://arc-meteor.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="技术" scheme="http://arc-meteor.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
