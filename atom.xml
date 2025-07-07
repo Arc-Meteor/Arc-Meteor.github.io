@@ -6,7 +6,7 @@
   <link href="http://arc-meteor.github.io/atom.xml" rel="self"/>
   
   <link href="http://arc-meteor.github.io/"/>
-  <updated>2025-07-03T14:42:57.856Z</updated>
+  <updated>2025-07-07T14:11:18.088Z</updated>
   <id>http://arc-meteor.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://arc-meteor.github.io/2025/07/03/2025-07-03-%E5%85%AD%E6%9C%88%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
     <id>http://arc-meteor.github.io/2025/07/03/2025-07-03-%E5%85%AD%E6%9C%88%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/</id>
     <published>2025-07-03T13:39:56.000Z</published>
-    <updated>2025-07-03T14:42:57.856Z</updated>
+    <updated>2025-07-07T14:11:18.088Z</updated>
     
-    <content type="html"><![CDATA[<p>本来说是要在一号就把总结写出来的，<br>结果现在莫名其妙就推到了三号，<br>也算是拖延症的极致体现，<br>可能也是前两天的事情太多了吧，<br>总而言之现在还是要正常回忆6月做了些什么，<br>然后对其进行总结一下，也算是可以水一篇博文。   </p><p>首先感觉6月就是高中生活的延续，<br>从开始的1号开始，继续在学校的坐牢，<br>度过了一段紧张难忘的日子，<br>最留下深刻印象的是咱们6月8号那天晚上的晚自习，<br>算是高中的最后一个晚自习吧，<br>依然是没有好好复习，而是请求了倍受欢迎的化学老师，<br>让他在我的游戏机盒子上留下他的寄语，<br>虽然有点奇怪，但他还是接受了我的要求，<br>也算是完成了咱的夙愿。<br>说实话感觉真正高中三年下来能让我敬服的老师只有这一位了。     </p><p><img src="https://img.picui.cn/free/2025/07/03/68668c486c42b.jpg" alt="咱的游戏机"></p><p>好了好了，这都是高中的事情了，<br>要说刚高考完也就干了一件事吧，<br>建了个Minecraft服务器，<br>虽然我一分钱也没出，<br>相当于完全白嫖顺便混了个自由处理服务器的机会，<br>平时维持好了基础forge的运行，<br>多余的就当是交给自动化脚本的玩物了，<br>只是可惜国内禁止TCP建站，<br>要不玩法应该还能更多，<br>至于真正能玩的内容其实也不多，<br>加上100+mods的forge内存占用高达4-6G，<br>再加上本身Windows Serve也有占用，<br>很多进程根本跑不起来，<br>而且这个租服务器的平台还算电费，<br>平常送的电根本不够CPU跑满1小时，<br>只能说是当个随性玩具了，<br>真正要学习什么的还是要靠Wamp来架构本地，<br>说起来6月真正认真学习的时间也没多少，<br>在技术的学习实践上还是差把劲，<br>下个月还是要继续努力。    </p><p>感觉在家长期待久了，<br>身体素质都在不断下降，<br>右肩的疼痛也时有显现，<br>每天晚上就算是外出达到了10000步也还是不够，<br>还是需要偶尔的高强度运动来完全激发身体，<br>像是在学校至少每周都会打2-3次球，完全运动了身体，<br>现在虽说也有白天太热了的原因，<br>但确实动的越来越少了，<br>还是要继续保持健康的作息习惯。    </p><p>七月也已经开始了，<br>事情还是很多的，<br>还是要继续加油了。<br>各位读者，晚安！</p>]]></content>
+    <content type="html"><![CDATA[<p>本来说是要在一号就把总结写出来的，<br>结果现在莫名其妙就推到了三号，<br>也算是拖延症的极致体现，<br>可能也是前两天的事情太多了吧，<br>总而言之现在还是要正常回忆6月做了些什么，<br>然后对其进行总结一下，也算是可以水一篇博文。   </p><p>首先感觉6月就是高中生活的延续，<br>从开始的1号开始，继续在学校的坐牢，<br>度过了一段紧张难忘的日子，<br>最留下深刻印象的是咱们6月8号那天晚上的晚自习，<br>算是高中的最后一个晚自习吧，<br>依然是没有好好复习，而是请求了倍受欢迎的化学老师，<br>让他在我的游戏机盒子上留下他的寄语，<br>虽然有点奇怪，但他还是接受了我的要求，<br>也算是完成了咱的夙愿。<br>说实话感觉真正高中三年下来能让我敬服的老师只有这一位了。     </p><p><img src="https://img.picui.cn/free/2025/07/03/68668c486c42b.jpg" alt="咱的游戏机"></p><p>好了好了，这些都是高中的事情了。<br>高考结束后，其实也就做了一件比较有意思的事——建了个Minecraft服务器。<br>虽然我一分钱没出，但也因此获得了自由管理服务器的机会，<br>平时主要负责维护基础的Forge环境，<br>多余的内容就交给自动化脚本处理，算是玩具兼实验田。<br>不过有些遗憾的是，国内禁止TCP建站，<br>否则玩法应该还能更多一些。<br>实际上，真正能玩的内容也不算多，<br>加上100多个mod的Forge环境，内存占用高达4-6G，<br>再加上Windows Server本身的资源消耗，<br>很多进程根本跑不起来。<br>而且这个租服务器的平台还要单独计算电费，<br>平时赠送的电量根本不够CPU满负荷运行一小时，<br>所以只能当作随性的小玩具。<br>如果真想深入学习，还是得靠Wamp在本地搭建环境。  </p><p>其实在搭建服务器的过程中，确实也遇到了不少技术难题。<br>比如有些mod之间存在兼容性问题，<br>经常会出现崩溃或者加载失败的情况。<br>为了解决这些问题，我查阅了大量的论坛和文档，<br>甚至还尝试自己修改配置文件，逐步排查冲突。<br>虽然过程有些繁琐，但每当服务器顺利启动并能和朋友们一起联机时，<br>感觉还是没有白费这段时间。<br>(要真说mods之间的兼容还真是个迷)<br>此外，自动化脚本的编写也让我对批处理和PowerShell有了更深入的了解。<br>通过这些脚本，可以实现服务器的定时重启、备份存档、自动更新mod等功能，<br>(其实大部分还是靠现成的插件)<br>大大减轻了日常维护的负担。虽然这些脚本还比较简单，<br>但也为后续学习更复杂的自动化运维打下了基础。<br>(当然运维什么的还是开个玩笑)</p><p>说起来，6月认真学习的时间其实并不多，<br>在技术学习和实践方面还有很大提升空间，<br>下个月还是要继续努力。</p><p>除了技术方面，生活上的变化也挺大。<br>高考结束后，突然从高强度的学习节奏中解脱出来，反而有些不适应。<br>每天的作息变得自由，但也容易陷入无所事事的状态。<br>为了让自己不至于太过懒散，我尝试制定了一些简单的计划，<br>主要也就写写博客记录生活一直在坚持。<br>虽然执行得并不完美，但至少让自己的生活有了一些目标和方向。<br>总比每天狂暴划水要好。</p><p>在家待久了，明显感觉身体素质在下降，<br>右肩的疼痛也时不时出现。<br>每天晚上即使外出走到了10000步，也还是觉得不够，<br>偶尔还是需要高强度运动来激活身体。<br>在学校的时候，至少每周还能打2-3次球，<br>现在虽然天气炎热，但运动量确实减少了不少，<br>还是要继续保持健康的作息和锻炼习惯。</p><p>回顾整个六月，虽然没有做出什么惊天动地的大事，<br>但每一天都在慢慢积累。<br>(划水也是重要组成部分)<br>无论是技术上的小突破，还是生活中的点滴进步，<br>都是成长的一部分。希望未来的自己，<br>能够更加自律和坚定，不断追求更好的自己。】</p><p>七月已经开始，<br>新的事情也会接踵而至，<br>希望自己能继续保持动力，努力前行。<br>各位读者，晚安！</p>]]></content>
     
     
       
@@ -140,9 +140,9 @@
     <category term="Future Aim" scheme="http://arc-meteor.github.io/categories/Future-Aim/"/>
     
     
-    <category term="规划" scheme="http://arc-meteor.github.io/tags/%E8%A7%84%E5%88%92/"/>
-    
     <category term="闲聊" scheme="http://arc-meteor.github.io/tags/%E9%97%B2%E8%81%8A/"/>
+    
+    <category term="规划" scheme="http://arc-meteor.github.io/tags/%E8%A7%84%E5%88%92/"/>
     
   </entry>
   
@@ -219,11 +219,11 @@
     <category term="New Start" scheme="http://arc-meteor.github.io/categories/New-Start/"/>
     
     
-    <category term="开发" scheme="http://arc-meteor.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    
     <category term="总结" scheme="http://arc-meteor.github.io/tags/%E6%80%BB%E7%BB%93/"/>
     
     <category term="技术" scheme="http://arc-meteor.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="开发" scheme="http://arc-meteor.github.io/tags/%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
@@ -387,9 +387,9 @@
     <category term="Daily Life" scheme="http://arc-meteor.github.io/categories/Daily-Life/"/>
     
     
-    <category term="开发" scheme="http://arc-meteor.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    
     <category term="感想" scheme="http://arc-meteor.github.io/tags/%E6%84%9F%E6%83%B3/"/>
+    
+    <category term="开发" scheme="http://arc-meteor.github.io/tags/%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
