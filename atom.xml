@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="/atom-style.css"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Arc&#39;s Cabin</title>
   
-  <subtitle>银碗里盛雪</subtitle>
+  <subtitle>茫茫Web之中，相逢即是缘分</subtitle>
   <link href="http://arc-meteor.github.io/atom.xml" rel="self"/>
   
   <link href="http://arc-meteor.github.io/"/>
-  <updated>2025-08-04T14:55:18.012Z</updated>
+  <updated>2025-10-13T12:18:15.779Z</updated>
   <id>http://arc-meteor.github.io/</id>
   
   <author>
@@ -15,6 +16,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>旅途前的插曲</title>
+    <link href="http://arc-meteor.github.io/2025/07/13/2025-07-13-%E6%97%85%E9%80%94%E5%89%8D%E7%9A%84%E6%8F%92%E6%9B%B2/"/>
+    <id>http://arc-meteor.github.io/2025/07/13/2025-07-13-%E6%97%85%E9%80%94%E5%89%8D%E7%9A%84%E6%8F%92%E6%9B%B2/</id>
+    <published>2025-07-13T12:32:57.000Z</published>
+    <updated>2025-10-13T12:18:15.779Z</updated>
+    
+    <content type="html"><![CDATA[<p>其实自武汉出游回来后，<br>就一直处于一个发烧的状态，<br>开始的时候只是觉得浑身疼痛，<br>在外面的时候还只是认为这是每天几万步的正常罢了，<br>直到回家后发现昏昏欲睡，<br>头晕已经超出承担上限，<br>在大夏天37℃的房间里睡着了，<br>流的汗都打湿了床单才发现问题，<br>确实自己对身体上的注意还是太少了，<br>大多数问题都认为熬一下就能过去，<br>但其实这些症状就是明显的发烧，<br>只是自己对这些问题没有在意，<br>或者说生活经验也不足，<br>无法及时判定自己的问题，<br>在外面也要自己注意，<br>有任何的不适也要及时弄清原因，<br>将问题尽早解决掉。  </p><p>其实主要问题是我没往发烧方面想，<br>那是除了隔两天出门玩玩外，<br>大部分时候也都窝在屋里看电脑，<br>腰痛和头晕自然被归咎到了长期伏案中，<br>虽然抱病在身，<br>但是14日出行的计划却也无法延误，<br>毕竟火车票已订，并且和同学一起，<br>虽然说还得看最后的情况，<br>但似乎出去是必然的，   </p>]]></content>
+    
+    
+      
+      
+    <summary type="html"></summary>
+      
+    
+    
+    
+    <category term="Go traveling" scheme="http://arc-meteor.github.io/categories/Go-traveling/"/>
+    
+    
+    <category term="生活" scheme="http://arc-meteor.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="出游" scheme="http://arc-meteor.github.io/tags/%E5%87%BA%E6%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>长期出游模式开启</title>
@@ -28,7 +55,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;这个星期确实没怎么关注blog的事情，&lt;br&gt;主要是因为人不在家里吧，&lt;br&gt;一直在外面，下周一又要前往福建，&lt;br&gt;实在是没有什么空闲时间，&lt;br&gt;(虽然还是有几天不过是换了个地方家里蹲)&lt;br&gt;但确实不太有写Blog的闲情逸致，&lt;br&gt;也就随随便便记录一下了。    &lt;</summary>
+    <summary type="html"></summary>
       
     
     
@@ -54,8 +81,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;本来说是要在一号就把总结写出来的，&lt;br&gt;结果现在莫名其妙就推到了三号，&lt;br&gt;也算是拖延症的极致体现，&lt;br&gt;可能也是前两天的事情太多了吧，&lt;br&gt;总而言之现在还是要正常回忆6月做了些什么，&lt;br&gt;然后对其进行总结一下，也算是可以水一篇博文。   &lt;/p&gt;
-&lt;p&gt;首先感觉</summary>
+    <summary type="html"></summary>
       
     
     
@@ -81,7 +107,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;自从成绩出了以后，&lt;br&gt;感觉就没留下什么时间学习了，&lt;br&gt;刚看完两个学校的玩意，&lt;br&gt;就感觉很有点累了，而且许多问题矛盾也不在于此，&lt;br&gt;首先是自己理想与现实的争端，&lt;br&gt;然后是外部环境与信息的干扰与制造的焦虑，&lt;br&gt;就算是有明确的目标计划，&lt;br&gt;也很难不被那</summary>
+    <summary type="html"></summary>
       
     
     
@@ -105,7 +131,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;昨天没有写博客，&lt;br&gt;可能内心已经预料好了今天早上会写，&lt;br&gt;果然不出所料，预言这块我还蛮准，&lt;br&gt;彻夜难眠终究是变成惊天炸雷，&lt;br&gt;把我从虚幻的迷梦中唤醒。&lt;br&gt;不管怎么说事实已经发生，&lt;br&gt;那就没必要在为无法改变的东西悲伤，&lt;br&gt;能对自己的警示也要记录下来</summary>
+    <summary type="html"></summary>
       
     
     
@@ -131,8 +157,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;虽然看到标题容易让人想到最近的局势，&lt;br&gt;但其实指的是咱同时学习PHP和Node.js这俩玩意，&lt;br&gt;咱还是没胆量鉴证的(虽然也没有国区ICP备案)，&lt;br&gt;而且谁又能知道未来会发展成什么样子，&lt;br&gt;咱还是关心咱的技术学习吧。&lt;/p&gt;
-&lt;p&gt;不愧是世界上最好的语言PH</summary>
+    <summary type="html"></summary>
       
     
     
@@ -158,7 +183,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;总的来说呢，今天也算是按计划进行，&lt;br&gt;开始学习node.js环境下的编写，&lt;br&gt;感觉在node环境下的Javascript跟咱以前写的对比起来，&lt;br&gt;差别还真是有点大的，方法名几乎没有什么熟悉的，&lt;br&gt;并且以前处理Dom树的Document方法完全没有用处了。&lt;b</summary>
+    <summary type="html"></summary>
       
     
     
@@ -184,7 +209,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;虽然之前就觉得家里的Wifi慢的离谱，&lt;br&gt;但上高中时毕竟在家待得不多，&lt;br&gt;没有切实体会到家里网络的差劲。&lt;br&gt;要真正回溯原因的话，&lt;br&gt;应该跟水星的人来安装路由器有关系，&lt;br&gt;来过之后网络好像就奇差无比了。&lt;br&gt;虽然印象不深，&lt;br&gt;但之前百度网盘在我家网络</summary>
+    <summary type="html"></summary>
       
     
     
@@ -210,7 +235,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;说起咱把博客的框架由Hexo换成Jekyll确实有不少原因，&lt;br&gt;算起根本来说是咱看不太懂Jekyll的架构，&lt;br&gt;Ruby语言咱也只学习了一些基础的脚本内容，&lt;br&gt;想要去理解其本身框架运作还需要更进一步学习，&lt;br&gt;而且基于Ruby本身的Jekyll在国内也没有太多</summary>
+    <summary type="html"></summary>
       
     
     
@@ -236,8 +261,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;一个Jekyll时代的结束，也是另一个Hexo时代的开始！&lt;/p&gt;
-&lt;p&gt;这是我从Jekyll转到Hexo架构的第一个Blog，&lt;br&gt;也真正算是一个Hello World吧！&lt;br&gt;所以我也要保留系统生成的Blog作为这半年来的见证。&lt;br&gt;希望未来博客会越来越好！  &lt;</summary>
+    <summary type="html"></summary>
       
     
     
@@ -313,11 +337,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;发现了自己的不足，这下不得不好好学习下去了。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;声明：这都是高中时写的东西，精神状况不正常属于常态&lt;br&gt;请大家多多体谅！&lt;del&gt;主要是不想在仔细看并去修改了&lt;del&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;总的来说过年短短几天一</summary>
+    <summary type="html"></summary>
       
     
     
@@ -343,11 +363,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;过年时的喜悦，总被其他更多乱七八糟的东西冲乱了。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;声明：这都是高中时写的东西，精神状况不正常属于常态&lt;br&gt;请大家多多体谅！&lt;del&gt;主要是不想在仔细看并去修改了&lt;/del&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;不得不说算上昨天</summary>
+    <summary type="html"></summary>
       
     
     
@@ -373,11 +389,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;高中生的自由时间，似乎也都是从晚上放学才开始的。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;声明：这都是高中时写的东西，精神状况不正常属于常态&lt;br&gt;请大家多多体谅！&lt;del&gt;主要是不想在仔细看并去修改了&lt;del&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;无论是怎样的尝试，</summary>
+    <summary type="html"></summary>
       
     
     
@@ -405,11 +417,7 @@
     
       
       
-    <summary type="html">&lt;p&gt;第一次对互联网的尝试！&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;声明：这都是高中时写的东西，精神状况不正常属于常态&lt;br&gt;请大家多多体谅！&lt;del&gt;主要是不想在仔细看并去修改了&lt;del&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这是在许久的疑惑与探索中所诞生的博客，为此我</summary>
+    <summary type="html"></summary>
       
     
     

@@ -1,0 +1,8 @@
+entry title { 
+  color: #e74c3c;
+  font-family: 'Roboto', sans-serif; 
+}
+entry:hover {
+  transform: scale(1.02);
+  transition: all 0.3s ease;
+}
